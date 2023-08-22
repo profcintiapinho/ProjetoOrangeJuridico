@@ -1,0 +1,177 @@
+ID,Processo,Tipo
+1,Funcionário alega salários não pagos após demissão injusta.,Trabalhista
+2,Acusado de vandalismo em propriedade pública durante protesto.,Criminal
+3,Disputa sobre quebra de contrato de prestação de serviços de consultoria.,Cível
+4,Empregado busca indenização por assédio moral no ambiente de trabalho.,Trabalhista
+5,Julgamento de fraude em transações financeiras envolvendo esquema de pirâmide.,Criminal
+6,Pedido de guarda de menor após divórcio e disputa pela custódia.,Cível
+7,Reclamação de discriminação racial no emprego e ambiente hostil.,Trabalhista
+8,Julgamento de agressão física resultando em lesões graves.,Criminal
+9,Disputa sobre propriedade de imóvel herdado entre herdeiros.,Cível
+10,Reivindicação de pagamento de horas extras não remuneradas e falta de intervalos.,Trabalhista
+11,Acusação de fraude acadêmica em exame universitário.,Criminal
+12,Disputa de patente entre empresas de tecnologia.,Cível
+13,Investigação de fraude em licitação pública.,Criminal
+14,Funcionário alega retaliação após denunciar má conduta.,Trabalhista
+15,Processo de divórcio com questões de pensão alimentícia.,Cível
+16,Caso de difamação em redes sociais.,Cível
+17,Acusação de plágio acadêmico em tese de doutorado.,Criminal
+18,Empregador enfrenta processo por não pagamento de férias.,Trabalhista
+19,Julgamento de violência doméstica e ordem de restrição.,Criminal
+20,Ação de despejo de inquilino por falta de pagamento.,Cível
+21,Funcionário processa empresa por discriminação de gênero.,Trabalhista
+22,Investigação de fraude em seguro de vida.,Criminal
+23,Disputa sobre custódia de animal de estimação após divórcio.,Cível
+24,Funcionário busca compensação por acidente de trabalho.,Trabalhista
+25,Caso de calúnia e difamação envolvendo celebridade.,Criminal
+26,Pedido de ordem de restrição por assédio virtual.,Cível
+27,Acusação de roubo de propriedade intelectual.,Criminal
+28,Empresa enfrenta ação coletiva por produtos defeituosos.,Cível
+29,Julgamento de acidente de trânsito com lesões graves.,Criminal
+30,Disputa entre locador e locatário sobre reparos em imóvel alugado.,Cível
+31,Funcionário processa empregador por ambiente de trabalho tóxico.,Trabalhista
+32,Reivindicação de herança após falecimento de parente.,Cível
+33,Investigação de fraude em contratos governamentais.,Criminal
+34,Empregado alega discriminação por motivo de idade.,Trabalhista
+35,Caso de violência de gênero e medida protetiva solicitada.,Criminal
+36,Processo de falência e liquidação de empresa.,Cível
+37,Acusação de furto em loja de varejo.,Criminal
+38,Disputa entre vizinhos por barulho excessivo.,Cível
+39,Julgamento de negligência médica em cirurgia.,Cível
+40,Funcionário processa empresa por demissão injusta.,Trabalhista
+41,Investigação de evasão fiscal e sonegação de impostos.,Criminal
+42,Ação de indenização por acidente de trânsito.,Cível
+43,Investigação de corrupção em contrato público.,Criminal
+44,Funcionário busca direitos trabalhistas após demissão.,Trabalhista
+45,Disputa sobre guarda compartilhada de filhos.,Cível
+46,Caso de cyberbullying e medidas de proteção solicitadas.,Cível
+47,Acusação de fraude em documentação de propriedade.,Criminal
+48,Pedido de remoção de conteúdo difamatório online.,Cível
+49,Julgamento de caso de danos morais por negligência.,Cível
+50,Funcionário processa empresa por horas extras não pagas.,Trabalhista
+51,Investigação de lavagem de dinheiro e ativos ilícitos.,Criminal
+52,Disputa entre empresas concorrentes por quebra de contrato.,Cível
+53,Investigação de fraude em programa de benefícios sociais.,Criminal
+54,Funcionário alega discriminação baseada em deficiência.,Trabalhista
+55,Processo de alienação parental entre ex-cônjuges.,Cível
+56,Caso de invasão de privacidade por divulgação de fotos íntimas.,Cível
+57,Acusação de pirataria de software e direitos autorais.,Criminal
+58,Ação de responsabilidade civil por acidente de trânsito.,Cível
+59,Julgamento de caso de negligência em assistência médica.,Cível
+60,Funcionário processa por assédio sexual no local de trabalho.,Trabalhista
+61,Investigação de suborno e corrupção em empresas públicas.,Criminal
+62,Disputa por danos materiais e morais após acidente de trabalho.,Cível
+63,Investigação de fraude em licenciamento de propriedade intelectual.,Criminal
+64,Empregado alega retaliação após denunciar discriminação de gênero.,Trabalhista
+65,Processo de adoção e guarda de menor por pais adotivos.,Cível
+66,Caso de plágio artístico e direitos autorais.,Cível
+67,Acusação de fraude em transações imobiliárias.,Criminal
+68,Ação de responsabilidade civil por acidente de consumo.,Cível
+69,Julgamento de caso de má prática odontológica.,Cível
+70,Funcionário processa empresa por demissão discriminatória.,Trabalhista
+71,Investigação de cartel e práticas anticompetitivas.,Criminal
+72,Disputa sobre divisão de bens em divórcio litigioso.,Cível
+73,Investigação de lavagem de dinheiro em transações imobiliárias.,Criminal
+74,Funcionário alega demissão injusta após licença médica.,Trabalhista
+75,Processo de regulamentação de visitas em guarda compartilhada.,Cível
+76,Caso de difamação online envolvendo influenciadores.,Cível
+77,Acusação de fraude em licitação para obras públicas.,Criminal
+78,Ação de reparação por danos ambientais em área urbana.,Cível
+79,Julgamento de erro médico em cirurgia plástica.,Cível
+80,Funcionário processa por assédio moral no ambiente de trabalho.,Trabalhista
+81,Investigação de evasão de divisas em operações financeiras.,Criminal
+82,Ação de reparação por acidente de trânsito com danos materiais.,Cível
+83,Investigação de fraude em contratos de importação/exportação.,Criminal
+84,Funcionário alega retaliação após denunciar assédio sexual.,Trabalhista
+85,Processo de disputa de guarda de filho entre pais solteiros.,Cível
+86,Caso de violação de direitos autorais em obra literária.,Cível
+87,Acusação de insider trading em mercado de ações.,Criminal
+88,Ação de reparação por danos em acidente de construção civil.,Cível
+89,Julgamento de negligência médica em cirurgia de emergência.,Cível
+90,Funcionário processa empresa por discriminação religiosa.,Trabalhista
+91,Investigação de fraude em esquema de pirâmide financeira.,Criminal
+92,Disputa por direitos autorais em obra cinematográfica.,Cível
+93,Investigação de fraude em licitação de obras públicas.,Criminal
+94,Funcionário alega demissão após sofrer assédio moral.,Trabalhista
+95,Processo de regulamentação de pensão alimentícia.,Cível
+96,Caso de cyberbullying e difamação em ambiente escolar.,Cível
+97,Acusação de fraude em transações imobiliárias.,Criminal
+98,Ação de reparação por danos causados por produto defeituoso.,Cível
+99,Julgamento de negligência médica em cirurgia plástica.,Cível
+100,Funcionário processa empresa por discriminação por orientação sexual.,Trabalhista
+101,Investigação de fraude em esquema de investimentos.,Criminal
+102,Ação de despejo de inquilino por falta de pagamento.,Cível
+103,Disputa entre herdeiros por partilha de herança.,Cível
+104,Processo de adoção por casal homossexual.,Cível
+105,Investigação de lavagem de dinheiro em operações internacionais.,Criminal
+106,Ação de indenização por lesões em acidente de trânsito.,Cível
+107,Caso de plágio musical e violação de direitos autorais.,Cível
+108,Acusação de fraude em documentos fiscais.,Criminal
+109,Ação de reparação por danos causados por incêndio.,Cível
+110,Julgamento de erro médico em cirurgia de emergência.,Cível
+111,Funcionário processa empresa por demissão injusta.,Trabalhista
+112,Investigação de fraude em esquema de lavagem de dinheiro.,Criminal
+113,Processo de divórcio com partilha de bens em disputa.,Cível
+114,Disputa de condomínio por problemas estruturais.,Cível
+115,Processo de adoção internacional.,Cível
+116,Acusação de fraude em contratos de financiamento.,Criminal
+117,Ação de reparação por danos causados por acidente de trabalho.,Cível
+118,Julgamento de violência doméstica e pedido de medida protetiva.,Criminal
+119,Disputa sobre propriedade de terreno após desapropriação.,Cível
+120,Funcionário alega retaliação por denunciar práticas ilegais.,Trabalhista
+121,Investigação de esquema de fraude em aposentadorias.,Criminal
+122,Disputa de propriedade intelectual entre empresas de tecnologia.,Cível
+123,Investigação de fraude em licitação para obras rodoviárias.,Criminal
+124,Funcionário alega demissão após acidente de trabalho não relatado.,Trabalhista
+125,Processo de regulamentação de pensão alimentícia em caso de divórcio.,Cível
+126,Caso de invasão de privacidade e vazamento de informações pessoais.,Cível
+127,Acusação de lavagem de dinheiro em transações bancárias.,Criminal
+128,Ação de reparação por danos causados por produto defeituoso.,Cível
+129,Julgamento de negligência médica em cirurgia de emergência.,Cível
+130,Funcionário processa empresa por discriminação por orientação religiosa.,Trabalhista
+131,Investigação de fraude em esquema de pirâmide financeira.,Criminal
+132,Ação de despejo de inquilino por falta de pagamento de aluguel.,Cível
+133,Disputa por herança entre familiares.,Cível
+134,Processo de adoção por solteiro.,Cível
+135,Investigação de sonegação de impostos em empresa multinacional.,Criminal
+136,Ação de indenização por lesões causadas por produto defeituoso.,Cível
+137,Caso de plágio em software e infração de direitos autorais.,Cível
+138,Acusação de fraude em contratos de construção civil.,Criminal
+139,Ação de reparação por danos causados por desmoronamento.,Cível
+140,Julgamento de erro médico em cirurgia cardíaca.,Cível
+141,Funcionário processa empresa por discriminação racial.,Trabalhista
+142,Investigação de fraude em esquema de investimentos.,Criminal
+143,Processo de partilha de bens em divórcio amigável.,Cível
+144,Disputa entre vizinhos por limites de propriedade.,Cível
+145,Processo de adoção por casal heterossexual.,Cível
+146,Acusação de fraude em transações comerciais.,Criminal
+147,Ação de reparação por danos causados por acidente automobilístico.,Cível
+148,Julgamento de caso de difamação e injúria em ambiente virtual.,Criminal
+149,Disputa sobre desapropriação de terreno para obras públicas.,Cível
+150,Funcionário processa empresa por assédio moral.,Trabalhista
+151,Investigação de esquema de lavagem de dinheiro em empresas de fachada.,Criminal
+152,Ação de indenização por danos causados por acidente de trânsito.,Cível
+153,Caso de plágio em obra literária.,Cível
+154,Acusação de fraude em contratos de financiamento imobiliário.,Criminal
+155,Ação de reparação por danos causados por incêndio em edifício.,Cível
+156,Julgamento de negligência médica em cirurgia de emergência.,Cível
+157,Disputa entre sócios por dissolução de empresa.,Cível
+158,Processo de adoção de criança abandonada.,Cível
+159,Investigação de fraude em esquema de corrupção em órgão público.,Criminal
+160,Ação de indenização por acidente de trabalho com sequelas.,Cível
+161,Caso de plágio musical e violação de direitos autorais.,Cível
+162,Acusação de fraude em licitação para obras de infraestrutura.,Criminal
+163,Ação de reparação por danos causados por rompimento de barragem.,Cível
+164,Julgamento de erro médico em cirurgia de emergência.,Cível
+165,Processo de adoção por casal homoafetivo.,Cível
+166,Investigação de fraude em esquema de pirâmide financeira.,Criminal
+167,Disputa por propriedade de terreno em área rural.,Cível
+168,Processo de divisão de bens em divórcio consensual.,Cível
+169,Funcionário alega retaliação após denunciar irregularidades.,Trabalhista
+170,Investigação de lavagem de dinheiro em transações comerciais.,Criminal
+171,Ação de indenização por danos morais em acidente de trânsito.,Cível
+172,Caso de plágio em obra artística.,Cível
+173,Acusação de fraude em contratos de prestação de serviços.,Criminal
+174,Ação de reparação por danos causados por vazamento de produtos químicos.,Cível
+175,Julgamento de negligência médica em cirurgia de emergência.,Cível
+176,Disputa de propriedade de imóvel após falecimento do proprietário.,Cível
